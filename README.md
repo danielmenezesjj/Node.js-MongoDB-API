@@ -13,7 +13,7 @@ To get started with this API, follow the instructions below.
 ### Installation
 
 1. Clone the repository:
-- git clone https://github.com/danielmenezesjj/JSON-API-Server
+- git clone https://github.com/danielmenezesjj/Node.js-MongoDB-API
 
 
 2. Install the dependencies:
